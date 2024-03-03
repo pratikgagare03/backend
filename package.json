@@ -1,0 +1,15 @@
+{
+  "name": "backend-og",
+  "version": "1.0.0",
+  "description": "production grade backend by chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Pratik Gagare",
+  "license": "ISC"
+}
